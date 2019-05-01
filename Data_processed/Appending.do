@@ -1,0 +1,10 @@
+append using "D:\Dissertation\Data2\1998.dta"
+append using "D:\Dissertation\Data2\1999.dta"
+append using "D:\Dissertation\Data2\2000.dta"
+append using "D:\Dissertation\Data2\2001.dta"
+append using "D:\Dissertation\Data2\2002.dta"
+append using "D:\Dissertation\Data2\2003.dta"
+append using "D:\Dissertation\Data2\2004.dta"
+append using "D:\Dissertation\Data2\2005.dta"
+append using "D:\Dissertation\Data2\2006.dta"
+save "D:\Dissertation\Data2\appended(97-06).dta", replace
